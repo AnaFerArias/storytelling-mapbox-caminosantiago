@@ -81,7 +81,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Etapa 2: San Martín del Camino - Murias de Rechivaldo',
-            image: './assets/2.jpg',
+            image: './assets/2.jpeg',
             description: 'Etapa llana y de secano, atravesando pequeñas localidades hasta Astorga. Decidí continuar más allá de la parada habitual y terminar en Murias de Rechivaldo, en una casa rural sencilla y acogedora, donde el ritmo parecía detenerse. Allí, el dueño del albergue me dijo algo que se quedó conmigo: el dolor, las ampollas, las rozaduras… forman parte del Camino. No se evitan, se atraviesan. Como en la vida. Esa fue, quizá, la verdadera enseñanza de la etapa.',
             location: {
                 center: [-6.10768, 42.45918],
