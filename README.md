@@ -106,6 +106,14 @@ Desafio2-MiCaminoSantiago/
 - Resolución de problemas técnicos relacionados con rutas, despliegue y estilos.
 - Desarrollo de criterio técnico al adaptar y ampliar una plantilla existente.
 
+---
+
+
+## Posibles mejoras futuras
+
+- Optimización de la interacción en dispositivos móviles, adaptando el comportamiento de los popups para entornos táctiles.
+- Mejora adicional del diseño responsive para garantizar una experiencia completamente homogénea en todos los tamaños de pantalla.
+
 
 ## Autoría
 
