@@ -75,7 +75,7 @@ Desafio2-MiCaminoSantiago/
 - Adaptación completa del contenido narrativo a una experiencia personal del Camino de Santiago.
 - Creación de un dataset propio para la posterior importación en formato CSV a Mapbox. 
 - Diseño de validaciones de datos y listas auxiliares para garantizar coherencia en etapas, distancias y puntos de interés.
-- Obtención de las geoloalizaciones de todas los puntos de las etapas del recorrido mediante la herramienta Location Helper Mapbox.
+- Obtención de las geolocalizaciones de todas los puntos de las etapas del recorrido mediante la herramienta Location Helper Mapbox.
 - Generación de archivos en formato GeoJSON para pruebas iniciales y posterior integración definitiva del dataset en formato CSV en Mapbox.
 - Importación y configuración de los datos en Mapbox Studio para su representación geoespacial.
 - Modificación del estilo base de Mapbox para ajustarlo a una estética más acorde con el proyecto.
