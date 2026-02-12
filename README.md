@@ -50,7 +50,7 @@ Desde una perspectiva de aprendizaje, el proyecto supuso un reto al abordar simu
 - Mapbox GL JS
 - Location Helper Mapbox 
 - GeoJSON.io
-- Visual Code Studio
+- Visual Studio Code
 - Git & GitHub
 - ChatGPT
 
