@@ -1,0 +1,15 @@
+﻿id_etapa;nombre_etapa;comunidad_autónoma;coordenadas_GeoJSON;coordenadas;lon;lat;km_etapa;km_acumulados;presupuesto_diario;tipo_etapa;exigencia_física;desnivel_total;desnivel_positivo (m);desnivel_negativo (m);tiempo;alojamiento
+0;León;Castilla y León;[-5.56707, 42.59847];-5.56707, 42.59847;-556.707;4.259.847;0;0;€ 27,00;Inicio;Alta;- / -;-;-;-;Globetrotter Hostel
+1;León - San Martín del Camino;Castilla y León;[-5.80481, 42.49733];-5.80481, 42.49733;-580.481;4.249.733;33;33;€ 35,00;Urbana / Periurbana;Alta;113 / -83;113;-83;5,5;Albergue La Huella
+2;San Martín del Camino - Murias de Rechivaldo;Castilla y León;[-6.10768, 42.45918];-6.10768, 42.45918;-610.768;4.245.918;28;61;€ 24,00;Rural;Alta;127 / -127;127;-127;5;Albergue Las Águedas
+3;Murias de Rechivaldo - Foncebadón;Castilla y León;[-6.34243, 42.49111];-6.34243, 42.49111;-634.243;4.249.111;21;82;€ 29,00;Montañosa;Alta;573 / -13;573;-13;6,5;Albergue Monte Irago
+4;Foncebadón - Ponferrada;Castilla y León;[-6.59208, 42.54289];-6.59208, 42.54289;-659.208;4.254.289;27;109;€ 26,00;Montañosa;Alta;172 / -1067;172;-1067;6;Albergue Guiana
+5;Ponferrada - Villafranca del Bierzo;Castilla y León;[-6.81159, 42.60501];-6.81159, 42.60501;-681.159;4.260.501;20;129;€ 27,00;Agrícola;Ligera;191 / -212;191;-212;5;Viña Femita
+6;Villafranca del Bierzo - La Laguna;Castilla y León;[-7.02213, 42.70137];-7.02213, 42.70137;-702.213;4.270.137;25;154;€ 21,00;Forestal;Alta;737 / -84;737;-84;6,5;Albergue La Escuela
+7;La Laguna - Triacastela;Galicia;[-7.24080, 42.75590];-7.24080, 42.75590;-724.080;4.275.590;23;177;€ 23,00;Forestal;Moderada;293 / -789;293;-789;5;Complexo Xacobeo Albergue & Pensión
+8;Triacastela - Vilei, Barbadelo (Sarria);Galicia;[-7.44439, 42.76914];-7.44439, 42.76914;-744.439;4.276.914;22;199;€ 36,00;Rural;Moderada;378 / -528;378;-528;5;Casa Barbadelo
+9;Vilei, Barbadelo (Sarria) - Portomarin;Galicia;[-7.61817, 42.80745];-7.61817, 42.80745;-761.817;4.280.745;18;217;€ 32,00;Rural;Ligera;273 / -396;273;-396;4,5;Albergue Aqua PortoMarin
+10;Portomarin - Palas de Rei;Galicia;[-7.86788, 42.87416];-7.86788, 42.87416;-786.788;4.287.416;24;241;€ 23,00;Rural;Moderada;464 / -292;464;-292;5,5;Albergue y Pensión San Marcos
+11;Palas de Rei - Arzúa;Galicia;[-8.16234, 42.92641];-8.16234, 42.92641;-816.234;4.292.641;29;270;€ 22,00;Rural;Moderada;370 / -552;370;-552;6,5;Casa del Peregrino
+12;Arzúa - O'Pedrouzo;Galicia;[-8.36350, 42.90425];-8.36350, 42.90425;-836.350;4.290.425;19;289;€ 28,00;Rural;Ligera;234 / -336;234;-336;4,5;Pensión Peregrina 2
+13;O'Pedrouzo - Santiago de Compostela;Galicia;[-8.54939, 42.87993];-8.54939, 42.87993;-854.939;4.287.993;18;307;€ 40,00;Final;Ligera;257 / -231;257;-231;4;Pombal Rooms Santiago
