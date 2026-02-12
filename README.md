@@ -14,7 +14,7 @@ La aplicación permite al usuario seguir el itinerario de forma progresiva, reco
 
 Enlace a la versión publicada en GitHub Pages:
 
-🔗 https://anaferarias.github.io/Desafio2-MiCaminoSantiago/
+🔗 https://anaferarias.github.io/storytelling-mapbox-caminosantiago/
 
 ---
 
