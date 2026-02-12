@@ -62,6 +62,7 @@ Desde una perspectiva de aprendizaje, el proyecto supuso un reto al abordar simu
 
 Desafio2-MiCaminoSantiago/
 ├── assets/ # Imágenes utilizadas en el storytelling
+├── DataSet Propio_Camino.csv
 ├── index.html # Estructura principal de la aplicación
 ├── config.js # Configuración narrativa y geográfica
 ├── README.md
