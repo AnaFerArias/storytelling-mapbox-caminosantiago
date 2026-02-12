@@ -1,7 +1,7 @@
 var config = {
     style: 'mapbox://styles/anaferarias/cmldp3ddo00by01qxcvha7mtj',
     // leave commented to use Mapbox Standard Style
-    accessToken: 'MY_MAPBOX_ACCES_TOKEN',
+    accessToken: 'pk.eyJ1IjoiYW5hZmVyYXJpYXMiLCJhIjoiY21sYmE0bWxqMHBzZTNncGt6cjc2MzcyMCJ9.bxufUGAH8jGtuaUU4CkVLA',
     showMarkers: false,
     markerColor: '#3FB1CE',
     //projection: 'equirectangular',
