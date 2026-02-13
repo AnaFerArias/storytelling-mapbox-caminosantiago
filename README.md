@@ -99,7 +99,7 @@ Desafio2-MiCaminoSantiago/
 
 ## Aprendizajes
 
-- Comprensión práctica del funcionamiento de Mapbox GL JS y su configuración.
+- Comprensión práctica del funcionamiento de Mapbox Studio y su configuración.
 - Trabajo con datos en formato GeoJSON y su integración en una aplicación web.
 - Gestión básica de arquitectura de proyecto y buenas prácticas en repositorios.
 - Resolución de problemas técnicos relacionados con rutas, despliegue y estilos.
