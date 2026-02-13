@@ -32,7 +32,7 @@ El objetivo principal del proyecto fue integrar herramientas de representación 
 
 A nivel técnico, el trabajo permitió:
 
-- Configurar y personalizar estilos de mapa en Mapbox GL JS.
+- Configurar y personalizar estilos de mapa en Mapbox Studio.
 - Construir y depurar un dataset geoespacial en formato GeoJSON.
 - Integrar datos, narrativa e imágenes en una estructura web funcional.
 - Gestionar la arquitectura del repositorio y el despliegue en GitHub Pages.
@@ -47,14 +47,12 @@ Desde una perspectiva de aprendizaje, el proyecto supuso un reto al abordar simu
 - HTML5  
 - CSS3  
 - JavaScript  
-- Mapbox GL JS
+- Mapbox Studio
 - Location Helper Mapbox 
 - GeoJSON.io
 - Visual Studio Code
 - Git & GitHub
 - ChatGPT
-
-(Otras si aplican)
 
 ---
 
