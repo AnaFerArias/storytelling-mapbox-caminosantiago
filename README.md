@@ -41,18 +41,20 @@ Desde una perspectiva de aprendizaje, el proyecto supuso un reto al abordar simu
 
 ---
 
-## Tecnologías utilizadas
+## Tecnologías & Recursos utilizados
 
 - Excel
 - HTML5  
 - CSS3  
 - JavaScript  
 - Mapbox Studio
-- Location Helper Mapbox 
+- Location Helper Mapbox
 - GeoJSON.io
 - Visual Studio Code
 - Git & GitHub
 - ChatGPT
+- SVG Repo
+- ColorZilla
 
 ---
 
